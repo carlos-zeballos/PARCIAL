@@ -1,0 +1,12 @@
+com\nakamas\ms_orders\controller\Order.class
+com\nakamas\ms_orders\MsOrdersApplication.class
+com\nakamas\ms_orders\exception\GlobalExceptionHandler.class
+com\nakamas\ms_orders\exception\ResourceNotFoundException.class
+com\nakamas\ms_orders\config\SwaggerConfig.class
+com\nakamas\ms_orders\controller\OrderController.class
+com\nakamas\ms_orders\service\OrderService.class
+com\nakamas\ms_orders\model\Order.class
+com\nakamas\ms_orders\repository\OrderRepository.class
+com\nakamas\ms_orders\repository\IOrderRepository.class
+com\nakamas\ms_orders\exception\ErrorDetails.class
+com\nakamas\ms_orders\service\IOrderService.class

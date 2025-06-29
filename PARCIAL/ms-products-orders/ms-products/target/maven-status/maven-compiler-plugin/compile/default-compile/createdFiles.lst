@@ -1,0 +1,14 @@
+com\nakamas\ms_products\repository\IProductRepository.class
+com\nakamas\ms_products\controller\PageRequest.class
+com\nakamas\ms_products\controller\Valid.class
+com\nakamas\ms_products\model\Product$ProductBuilder.class
+com\nakamas\ms_products\service\ProductService.class
+com\nakamas\ms_products\controller\Page.class
+com\nakamas\ms_products\controller\ResourceNotFoundException.class
+com\nakamas\ms_products\repository\ProductRepository.class
+com\nakamas\ms_products\service\IProductService.class
+com\nakamas\ms_products\model\Product.class
+com\nakamas\ms_products\MsProductsApplication.class
+com\nakamas\ms_products\model\Column.class
+com\nakamas\ms_products\controller\Pageable.class
+com\nakamas\ms_products\controller\ProductController.class
